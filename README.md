@@ -30,7 +30,8 @@ Este proyecto fue mi proyecto final y lo completé en un tiempo muy limitado. Po
 
 Aquí tienes una captura de pantalla del DataFrame final con la predicción:
 
-![Captura de pantalla 2024-07-31 122304](https://github.com/user-attachments/assets/a2732718-d8a8-42ce-944b-62b0c1afe848)
+![Captura de pantalla 2024-07-31 122304](https://github.com/user-attachments/assets/4c80d040-d0e6-4a07-a233-818e98c52111)
+
 
 Este DataFrame muestra la predicción de los equipos con sus respectivas probabilidades de ganar el torneo.
 
