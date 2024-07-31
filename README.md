@@ -16,6 +16,16 @@ Este proyecto se centra en predecir qué equipo ganará la próxima Champions Le
 
 - **Predicción 🔮**: Finalmente, aplicamos nuestro modelo para hacer predicciones sobre el posible campeón de la Champions League. ¡Veamos si nuestro modelo tiene lo necesario para acertar!
 
+## **⚠️ Nota Importante**
+
+Este proyecto fue mi proyecto final y lo completé en un tiempo muy limitado. Por lo tanto, es posible que encuentres algunos desordenes en el código y en los datos. Algunos puntos a tener en cuenta:
+
+- **Desorden y Errores**: El proyecto puede tener algunos errores y fallos debido al tiempo limitado de desarrollo. Agradezco tu comprensión en este aspecto.
+
+- **Datos y DataFrames**: Existen varios DataFrames en el código que no se utilizaron para la predicción final, ya que no los consideré relevantes para el modelo. Sin embargo, he incluido la información para esos DataFrames en el archivo para su posible revisión.
+
+- **Explicaciones Adicionales**: Si algo no queda claro o necesitas más detalles, estaré encantado de explicarlo. Puedes consultar el archivo `super_code4` al final del repositorio, donde se encuentra el DataFrame con las predicciones.
+
 ## **📸 Ejemplo de DataFrame Final**
 
 Aquí tienes una captura de pantalla del DataFrame final con la predicción:
@@ -23,3 +33,7 @@ Aquí tienes una captura de pantalla del DataFrame final con la predicción:
 ![Captura de pantalla 2024-07-31 122304](https://github.com/user-attachments/assets/a2732718-d8a8-42ce-944b-62b0c1afe848)
 
 Este DataFrame muestra la predicción de los equipos con sus respectivas probabilidades de ganar el torneo.
+
+---
+
+¡Espero que este README sea útil y que disfrutes explorando el proyecto! 🚀📈
